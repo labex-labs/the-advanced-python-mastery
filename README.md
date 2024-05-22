@@ -10,8 +10,8 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                  |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                  |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Run a Small Program                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132390'>Start Lab</a> |
 |      02 | 📖 Manipulate Various Built-in Python Objects            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132391'>Start Lab</a> |
 |      03 | 📖 Review Basic File I/O                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132392'>Start Lab</a> |
