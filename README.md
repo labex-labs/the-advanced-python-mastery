@@ -10,7 +10,7 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                  |
+|   Index | Name                                                    | Difficulty   | Practice                                                             |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Run a Small Program                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132390'>Start Lab</a> |
 |      02 | 📖 Manipulate Various Built-in Python Objects            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132391'>Start Lab</a> |
@@ -63,4 +63,9 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 |      49 | 📖 Create a Python Package                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132529'>Start Lab</a> |
 |      50 | 📖 Controlling Symbols and Combining Submodules          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132530'>Start Lab</a> |
 |      51 | 📖 Circular and Dynamic Module Imports                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132531'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
