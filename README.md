@@ -66,6 +66,7 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
