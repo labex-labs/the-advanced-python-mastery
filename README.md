@@ -1,6 +1,6 @@
 # The Advanced Python Mastery
 
-![The Advanced Python Mastery](https://cover-creator.labex.io/the-advanced-python-mastery.png)
+![The Advanced Python Mastery](https://cover-creator.appbot.io/the-advanced-python-mastery.png)
 
 This course is designed by David Beazley, author of the Python Cookbook, released under a Creative Commons license. The goal of this course is to provide an intermediate-level introduction to Python that goes beyond the basics of Python syntax and provides an opportunity to apply Python to a variety of intermediate-level problems.
 
