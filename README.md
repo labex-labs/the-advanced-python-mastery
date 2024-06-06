@@ -38,7 +38,7 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 |      24 | 📖 Customizing Attribute Access                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132502'>Start Lab</a> |
 |      25 | 📖 Definitional Aspects of Functions                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132503'>Start Lab</a> |
 |      26 | 📖 Returning Values From Functions                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132504'>Start Lab</a> |
-|      27 | 📖 Higher Order Functions                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132505'>Start Lab</a> |
+|      27 | 📖 Mastering Python's Higher Functions                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132505'>Start Lab</a> |
 |      28 | 📖 Learn More About Closures                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132506'>Start Lab</a> |
 |      29 | 📖 Exception Handling and Logging                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132507'>Start Lab</a> |
 |      30 | 📖 Python Unittest Module                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132508'>Start Lab</a> |
@@ -54,8 +54,8 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 |      40 | 📖 Create Your First Metaclass                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132519'>Start Lab</a> |
 |      41 | 📖 Metaclasses in Action                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132521'>Start Lab</a> |
 |      42 | 📖 Customize Iteration Using Generators                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132522'>Start Lab</a> |
-|      43 | 📖 Set Up Processing Pipelines                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132523'>Start Lab</a> |
-|      44 | 📖 Set Up Processing Pipelines                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132524'>Start Lab</a> |
+|      43 | 📖 Utilize Generators For Stocksim Pipelines             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132523'>Start Lab</a> |
+|      44 | 📖 Coroutine-Powered Data Processing                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132524'>Start Lab</a> |
 |      45 | 📖 Yield Statement Management in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132525'>Start Lab</a> |
 |      46 | 📖 Learn About Managed Generators                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132526'>Start Lab</a> |
 |      47 | 📖 Learn About Delegating Generators                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132527'>Start Lab</a> |
