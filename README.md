@@ -38,7 +38,7 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 |      24 | 📖 Customizing Attribute Access                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132502'>Start Lab</a> |
 |      25 | 📖 Definitional Aspects of Functions                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132503'>Start Lab</a> |
 |      26 | 📖 Returning Values From Functions                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132504'>Start Lab</a> |
-|      27 | 📖 Mastering Python's Higher Functions                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132505'>Start Lab</a> |
+|      27 | 📖 Python's Higher Functions                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132505'>Start Lab</a> |
 |      28 | 📖 Learn More About Closures                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132506'>Start Lab</a> |
 |      29 | 📖 Exception Handling and Logging                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132507'>Start Lab</a> |
 |      30 | 📖 Python Unittest Module                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132508'>Start Lab</a> |
