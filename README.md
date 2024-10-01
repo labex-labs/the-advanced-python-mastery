@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                             |
-|---------|----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                             |
+|---------|---------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Run a Small Program                                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-run-a-small-program-132390'>Start Lab</a>                                 |
 |      02 | 📖 Manipulate Various Built-in Python Objects            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-manipulate-various-built-in-python-objects-132391'>Start Lab</a>          |
 |      03 | 📖 Review Basic File I/O                                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-review-basic-file-i-o-132392'>Start Lab</a>                               |
@@ -61,7 +61,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      31 | 📖 Function Argument Passing Conventions                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-function-argument-passing-conventions-132509'>Start Lab</a>               |
 |      32 | 📖 Scoping Rules and Tricks                              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-scoping-rules-and-tricks-132510'>Start Lab</a>                            |
 |      33 | 📖 Inspect the Internals of Functions                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-inspect-the-internals-of-functions-132511'>Start Lab</a>                  |
-|      34 | 📖 Create Code With Exec                                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-create-code-with-exec-132512'>Start Lab</a>                               |
+|      34 | 📖 Create Code with Exec                                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-create-code-with-exec-132512'>Start Lab</a>                               |
 |      35 | 📖 Define a Proper Callable Object                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-define-a-proper-callable-object-132513'>Start Lab</a>                     |
 |      36 | 📖 Define a Simple Decorator Functions                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-define-a-simple-decorator-functions-132514'>Start Lab</a>                 |
 |      37 | 📖 Decorator Chaining and Parameterized Decorators       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-decorator-chaining-and-parameterized-decorators-132515'>Start Lab</a>     |
