@@ -84,5 +84,5 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 - 🔗 [ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 - 🔗 [ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ Free Tutorials](https://github.com/labex-labs/-free-tutorials)
+- 🔗 [ Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
